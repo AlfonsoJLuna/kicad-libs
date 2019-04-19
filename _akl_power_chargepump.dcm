@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX1720EUTG
+F https://es.farnell.com/on-semiconductor/max1720eutg/charge-pump-cmos-voltinverter/dp/1460665?st=MAX1720
+$ENDCMP
+#
+$CMP TC1240AECH
+F https://es.farnell.com/microchip/tc1240aechtr/ic-charge-pump-cmos-sot23a-6/dp/1605579?st=tc1240a
+$ENDCMP
+#
+#End Doc Library
