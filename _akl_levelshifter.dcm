@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74AVC4T245GU,115
+F https://es.farnell.com/nexperia/74avc4t245gu-115/transceptor-traductor-triestado/dp/2777716?st=74AVC4T245GU
+$ENDCMP
+#
+$CMP 74AVC8T245BQ-Q100J
+F https://es.farnell.com/nexperia/74avc8t245bq-q100j/txrx-traductor-aec-q100-dhvqfn/dp/2777717?st=74AVC8T245
+$ENDCMP
+#
+#End Doc Library
