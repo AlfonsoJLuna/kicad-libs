@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP MIC5504-1.8YM5
-F https://es.farnell.com/microchip/mic5504-1-8ym5-tr/ldo-fijo-1-8v-0-3a-sot-23-5/dp/2809977?st=MIC5504-1.8YM5
+$CMP MIC5504-1.8YM5-TR
+F https://www.digikey.es/product-detail/es/microchip-technology/MIC5504-1.8YM5-TR/576-4879-1-ND/5209405
 $ENDCMP
 #
 #End Doc Library
