@@ -1,4 +1,4 @@
-(module 5014610491 (layer F.Cu) (tedit 5CD318B0)
+(module 5014610491 (layer F.Cu) (tedit 5E7CD1C2)
   (fp_text reference REF** (at 0 -3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -18,7 +18,7 @@
   (pad 4 smd rect (at 0.75 -1.355) (size 0.3 1.21) (layers F.Cu F.Paste F.Mask))
   (pad MP smd rect (at -1.49 0) (size 0.52 1) (layers F.Cu F.Paste F.Mask))
   (pad MP smd rect (at 1.49 0) (size 0.52 1) (layers F.Cu F.Paste F.Mask))
-  (model :3d-third-party:5014610491.stp
+  (model :ThirdParty:5014610491.stp
     (offset (xyz 0 -1.65 0.4))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
