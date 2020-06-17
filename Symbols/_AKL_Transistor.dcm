@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDN327N
+F https://www.digikey.es/product-detail/es/on-semiconductor/FDN327N/FDN327NCT-ND/1849910
+$ENDCMP
+#
+$CMP FDN340P
+F https://www.digikey.es/product-detail/es/on-semiconductor/FDN340P/FDN340PCT-ND/965604
+$ENDCMP
+#
+$CMP MTM231232LBF
+F https://www.digikey.es/product-detail/es/panasonic-electronic-components/MTM231232LBF/MTM231232LBFCT-ND/4864487
+$ENDCMP
+#
+$CMP MTM232270LBF
+F https://www.digikey.es/product-detail/es/panasonic-electronic-components/MTM232270LBF/MTM232270LBFCT-ND/2799414
+$ENDCMP
+#
+$CMP SI2101-TP
+F https://www.digikey.es/product-detail/es/micro-commercial-co/SI2101-TP/SI2101-TPMSCT-ND/10054393
+$ENDCMP
+#
+$CMP SI2102-TP
+F https://www.digikey.es/product-detail/es/micro-commercial-co/SI2102-TP/SI2102-TPMSCT-ND/10054394
+$ENDCMP
+#
+#End Doc Library

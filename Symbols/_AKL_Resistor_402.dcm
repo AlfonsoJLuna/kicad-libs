@@ -1,0 +1,47 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100
+F https://www.digikey.es/product-detail/es/yageo/RC0402FR-07100RL/311-100LRCT-ND/729474
+$ENDCMP
+#
+$CMP 120K
+F https://www.digikey.es/product-detail/es/yageo/RC0402FR-07120KL/311-120KLRCT-ND/729481
+$ENDCMP
+#
+$CMP 150
+F https://www.digikey.es/product-detail/es/yageo/RC0402FR-07150RL/311-150LRCT-ND/729490
+$ENDCMP
+#
+$CMP 1K
+F https://www.digikey.es/product-detail/es/yageo/RC0402FR-071KL/311-1-00KLRCT-ND/729460
+$ENDCMP
+#
+$CMP 1K8
+F https://www.digikey.es/product-detail/es/yageo/RC0402FR-071K8L/311-1-80KLRCT-ND/729467
+$ENDCMP
+#
+$CMP 20K
+F https://www.digikey.es/product-detail/es/yageo/RC0402FR-0720KL/311-20-0KLRCT-ND/729504
+$ENDCMP
+#
+$CMP 240
+F https://www.digikey.es/product-detail/es/yageo/RC0402FR-07240RL/311-240LRCT-ND/2827882
+$ENDCMP
+#
+$CMP 2K4
+F https://www.digikey.es/product-detail/es/yageo/RC0402FR-072K4L/311-2-40KLRCT-ND/729502
+$ENDCMP
+#
+$CMP 510
+F https://www.digikey.es/product-detail/es/yageo/RC0402FR-07510RL/311-510LRCT-ND/729579
+$ENDCMP
+#
+$CMP 5K1
+F https://www.digikey.es/product-detail/es/yageo/RC0402FR-075K1L/311-5-10KLRCT-ND/729571
+$ENDCMP
+#
+$CMP 75K
+F https://www.digikey.es/product-detail/es/yageo/RC0402FR-0775KL/311-75KLRCT-ND/2827894
+$ENDCMP
+#
+#End Doc Library

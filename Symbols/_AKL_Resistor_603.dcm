@@ -1,0 +1,79 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-0710RL/311-10-0HRCT-ND/729826
+$ENDCMP
+#
+$CMP 10K
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-0710KL/311-10-0KHRCT-ND/729827
+$ENDCMP
+#
+$CMP 120K
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-07120KL/311-120KHRCT-ND/729868
+$ENDCMP
+#
+$CMP 12K
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-0712KL/311-12.0KHRCT-ND/729860
+$ENDCMP
+#
+$CMP 150
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-07150RL/311-150HRCT-ND/729905
+$ENDCMP
+#
+$CMP 160
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-07160RL/311-160HRCT-ND/729919
+$ENDCMP
+#
+$CMP 1K
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-071KL/311-1-00KHRCT-ND/729790
+$ENDCMP
+#
+$CMP 1K2
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-071K2L/311-1-20KHRCT-ND/729799
+$ENDCMP
+#
+$CMP 1K5
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-071K5L/311-1-50KHRCT-ND/729811
+$ENDCMP
+#
+$CMP 1K8
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-071K8L/311-1-80KHRCT-ND/729821
+$ENDCMP
+#
+$CMP 20K
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-0720KL/311-20-0KHRCT-ND/729987
+$ENDCMP
+#
+$CMP 240
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-07240RL/311-240HRCT-ND/730028
+$ENDCMP
+#
+$CMP 2K2
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-072K2L/311-2-20KHRCT-ND/729963
+$ENDCMP
+#
+$CMP 2K4
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-072K4L/311-2-40KHRCT-ND/729970
+$ENDCMP
+#
+$CMP 470
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-07470RL/311-470HRCT-ND/730203
+$ENDCMP
+#
+$CMP 510
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-07510RL/311-510HRCT-ND/730232
+$ENDCMP
+#
+$CMP 560
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-07560RL/311-560HRCT-ND/730251
+$ENDCMP
+#
+$CMP 5K1
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-075K1L/311-5-10KHRCT-ND/730215
+$ENDCMP
+#
+$CMP 75K
+F https://www.digikey.es/product-detail/es/yageo/RC0603FR-0775KL/311-75.0KHRCT-ND/730325
+$ENDCMP
+#
+#End Doc Library
