@@ -1,4 +1,4 @@
-(module FJ08K-N (layer F.Cu) (tedit 5E7CD958)
+(module FJ08K-N (layer F.Cu) (tedit 5E7F27E7)
   (fp_text reference VR (at 0 -10.575) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -25,4 +25,9 @@
   (pad 6 thru_hole oval (at 8.6 -2 180) (size 2.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -6 -6) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 6 6) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+  (model :ThirdParty:FJ08K-N.STEP
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

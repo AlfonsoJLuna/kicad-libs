@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 150044M155260
+F https://www.digikey.es/product-detail/es/w%C3%BCrth-elektronik/150044M155260/732-13407-1-ND/9857985
+$ENDCMP
+#
+$CMP 150060BS75000
+F https://www.digikey.es/product-detail/es/w-rth-elektronik/150060BS75000/732-4966-1-ND/4489893
+$ENDCMP
+#
+$CMP 150060SS75000
+F https://www.digikey.es/product-detail/es/w%C3%BCrth-elektronik/150060SS75000/732-4979-1-ND/4489902
+$ENDCMP
+#
+$CMP 150060VS75000
+F https://www.digikey.es/product-detail/es/w%C3%BCrth-elektronik/150060VS75000/732-4980-1-ND/4489904
+$ENDCMP
+#
+$CMP VEMD10940F
+F https://www.digikey.es/product-detail/es/vishay-semiconductor-opto-division/VEMD10940F/VEMD10940FCT-ND/3915201
+$ENDCMP
+#
+$CMP VSMB10940
+F https://www.digikey.es/product-detail/es/vishay-semiconductor-opto-division/VSMB10940/VSMB10940CT-ND/3915199
+$ENDCMP
+#
+#End Doc Library

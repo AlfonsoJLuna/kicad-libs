@@ -1,0 +1,67 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP9211S-AN-HAC-7
+F https://www.mouser.es/ProductDetail/Diodes-Incorporated/AP9211S-AN-HAC-7?qs=%2Fha2pyFaduhU8ORG8s%252BdQ8wjonur7%2FvJn%252BxxLU0AZ5qESSeNUE%2F1LA%3D%3D
+$ENDCMP
+#
+$CMP APX809S-31SA-7
+F https://www.digikey.es/product-detail/es/diodes-incorporated/APX809S-31SA-7/APX809S-31SA-7DICT-ND/7230302
+$ENDCMP
+#
+$CMP BD49K33G-TL
+F https://www.digikey.es/product-detail/es/rohm-semiconductor/BD49K33G-TL/BD49K33G-TLCT-ND/7895582
+$ENDCMP
+#
+$CMP CP2102N-A02-GQFN24
+F https://www.digikey.es/product-detail/es/silicon-labs/CP2102N-A02-GQFN24R/336-5888-1-ND/9863482
+$ENDCMP
+#
+$CMP DSC6001CI1A-008.0000T
+F https://www.digikey.es/product-detail/es/microchip-technology/DSC6001CI1A-008-0000T/DSC6001CI1A-008-0000TCT-ND/8639386
+$ENDCMP
+#
+$CMP LIS2DE12TR
+F https://www.digikey.es/product-detail/es/stmicroelectronics/LIS2DE12TR/497-15997-1-ND/5452397
+$ENDCMP
+#
+$CMP MCP73831T-2ACI_OT
+F https://www.digikey.es/product-detail/es/microchip-technology/MCP73831T-2ACI-OT/MCP73831T-2ACI-OTCT-ND/1979802
+$ENDCMP
+#
+$CMP MIC2091-1YM5-TR
+F https://www.digikey.es/product-detail/es/microchip-technology/MIC2091-1YM5-TR/576-3891-1-ND/2650466
+$ENDCMP
+#
+$CMP PAM8301AAF
+F https://www.digikey.es/product-detail/es/diodes-incorporated/PAM8301AAF/PAM8301AAFDICT-ND/8283873
+$ENDCMP
+#
+$CMP STM32L431CCU6
+F https://www.digikey.es/product-detail/es/stmicroelectronics/STM32L431CCU6TR/497-19377-1-ND/10063402
+$ENDCMP
+#
+$CMP TLV74333PDBVR
+F https://www.digikey.es/product-detail/es/texas-instruments/TLV74333PDBVR/296-47852-1-ND/8133201
+$ENDCMP
+#
+$CMP TLV9061IDBVR
+F https://www.digikey.es/product-detail/en/texas-instruments/TLV9061IDBVR/296-52284-1-ND/9771970
+$ENDCMP
+#
+$CMP TLV9061IDCKR
+F https://www.digikey.es/product-detail/es/texas-instruments/TLV9061IDCKR/296-53199-1-ND/9860350
+$ENDCMP
+#
+$CMP TPS22944DCKR
+F https://www.digikey.es/product-detail/es/texas-instruments/TPS22944DCKR/296-25218-1-ND/2172705
+$ENDCMP
+#
+$CMP VSOP38338
+F https://www.digikey.es/product-detail/es/vishay-semiconductor-opto-division/VSOP38338/VSOP38338CT-ND/2799073
+$ENDCMP
+#
+$CMP W25Q64JVZPIQ
+F https://www.digikey.es/product-detail/es/winbond-electronics/W25Q64JVZPIQ-TR/W25Q64JVZPIQCT-ND/10238308
+$ENDCMP
+#
+#End Doc Library

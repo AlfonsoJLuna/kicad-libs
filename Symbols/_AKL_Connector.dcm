@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1040310811
+F https://www.digikey.es/product-detail/es/molex/1040310811/WM6357CT-ND/2804769
+$ENDCMP
+#
+$CMP PPPC062LFBN-RC
+F https://www.digikey.es/product-detail/es/sullins-connector-solutions/PPPC062LFBN-RC/S7109-ND/810246
+$ENDCMP
+#
+$CMP SJ-3524-SMT-TR
+F https://www.digikey.es/product-detail/es/cui-devices/SJ-3524-SMT-TR/CP-3524SJCT-ND/669705
+$ENDCMP
+#
+$CMP TF-01A
+F https://lcsc.com/product-detail/Card-Sockets-Connectors_Korean-Hroparts-Elec-TF-01A_C91145.html
+$ENDCMP
+#
+$CMP TYPE-C-31-M-12
+F https://lcsc.com/product-detail/USB-Type-C_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html
+$ENDCMP
+#
+#End Doc Library

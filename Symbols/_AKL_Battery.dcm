@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BK-5033
+F https://www.digikey.es/product-detail/es/mpd-memory-protection-devices/BK-5033/BK-5033-ND/2330512
+$ENDCMP
+#
+$CMP BK-880
+F https://www.digikey.es/product-detail/es/mpd-memory-protection-devices/BK-880/BK-880-ND/2439467
+$ENDCMP
+#
+#End Doc Library

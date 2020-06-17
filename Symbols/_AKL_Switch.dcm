@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CUS-12TB
+F https://www.digikey.es/product-detail/es/nidec-copal-electronics/CUS-12TB/563-1102-1-ND/1124231
+$ENDCMP
+#
+$CMP EVQ-P7L01P
+F https://www.digikey.es/product-detail/es/panasonic-electronic-components/EVQ-P7L01P/P16769CT-ND/4429462
+$ENDCMP
+#
+$CMP EVQ-PUL02K
+F https://www.digikey.es/product-detail/es/panasonic-electronic-components/EVQ-PUL02K/P10853SCT-ND/286354
+$ENDCMP
+#
+$CMP TL3301TF160QG
+F https://www.digikey.es/product-detail/es/e-switch/TL3301TF160QG/TL3301TF160QGCT-ND/4835081
+$ENDCMP
+#
+#End Doc Library
