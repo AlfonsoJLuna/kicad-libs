@@ -4,6 +4,14 @@ $CMP 1040310811
 F https://www.digikey.es/product-detail/es/molex/1040310811/WM6357CT-ND/2804769
 $ENDCMP
 #
+$CMP FH2.54x3.55-2x12T
+F FH2.54x3.55-2x12T
+$ENDCMP
+#
+$CMP FH2.54x3.55-2x16T
+F FH2.54x3.55-2x12T
+$ENDCMP
+#
 $CMP PPPC062LFBN-RC
 F https://www.digikey.es/product-detail/es/sullins-connector-solutions/PPPC062LFBN-RC/S7109-ND/810246
 $ENDCMP
