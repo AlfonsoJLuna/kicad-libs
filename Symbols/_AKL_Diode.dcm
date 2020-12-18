@@ -4,6 +4,10 @@ $CMP MBR0520L
 F https://www.digikey.es/product-detail/es/on-semiconductor/MBR0520L/MBR0520LCT-ND/458961
 $ENDCMP
 #
+$CMP NSR0520V2T1G
+F https://www.digikey.es/product-detail/es/on-semiconductor/NSR0520V2T1G/NSR0520V2T1GOSCT-ND/1981501
+$ENDCMP
+#
 $CMP PESD5V0L5UY
 F https://www.digikey.es/product-detail/es/nexperia-usa-inc/PESD5V0L5UY-115/1727-3836-1-ND/1530842
 $ENDCMP
