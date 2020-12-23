@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Waveshare_17344
+F https://www.waveshare.com/2inch-lcd-module.htm
+$ENDCMP
+#
+$CMP WeAct_MiniF4
+F https://github.com/WeActTC/MiniF4-STM32F4x1
+$ENDCMP
+#
+#End Doc Library
