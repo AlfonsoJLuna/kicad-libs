@@ -5,7 +5,7 @@ F https://www.digikey.es/product-detail/es/yageo/RC0603FR-0710RL/311-10-0HRCT-ND
 $ENDCMP
 #
 $CMP 10K
-F https://www.digikey.es/product-detail/es/yageo/RC0603FR-0710KL/311-10-0KHRCT-ND/729827
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_10KR-1002-1_C98220.html
 $ENDCMP
 #
 $CMP 120K
