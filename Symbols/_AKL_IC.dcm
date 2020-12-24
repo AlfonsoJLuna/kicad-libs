@@ -24,6 +24,10 @@ $CMP LIS2DE12TR
 F https://www.digikey.es/product-detail/es/stmicroelectronics/LIS2DE12TR/497-15997-1-ND/5452397
 $ENDCMP
 #
+$CMP MAX31855KASA+T
+F https://lcsc.com/product-detail/Interface-ICs_Maxim-Integrated_MAX31855KASA-T_Maxim-Integrated-MAX31855KASA-T_C52028.html
+$ENDCMP
+#
 $CMP MCP73831T-2ACI_OT
 F https://www.digikey.es/product-detail/es/microchip-technology/MCP73831T-2ACI-OT/MCP73831T-2ACI-OTCT-ND/1979802
 $ENDCMP

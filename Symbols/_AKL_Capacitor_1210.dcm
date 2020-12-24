@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100u
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_muRata_GRM32ER60J107ME20L_100uF-107-20-6-3V_C88154.html
+$ENDCMP
+#
+$CMP 47u
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_MuRata_GRM32ER61C476KE15L_47uF-476-10-16V_C77101.html
+$ENDCMP
+#
+#End Doc Library

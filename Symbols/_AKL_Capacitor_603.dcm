@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100n
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL10B104KB8NNNC_100nF-104-10-50V_C1591.html
+$ENDCMP
+#
+$CMP 10n
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL10B103KB8NNNC_10nF-103-10-50V_C1589.html
+$ENDCMP
+#
+$CMP 10u
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL10A106KP8NNNC_10uF-106-10-10V_C19702.html
+$ENDCMP
+#
+$CMP 1n
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL10B102KB8NNNC_1nF-102-10-50V_C1588.html
+$ENDCMP
+#
+$CMP 1u
+F https://lcsc.com/product-detail/Others_Samsung-Electro-Mechanics_CL10B105KA8NFNC_Samsung-Electro-Mechanics-CL10B105KA8NFNC_C307479.html
+$ENDCMP
+#
+#End Doc Library

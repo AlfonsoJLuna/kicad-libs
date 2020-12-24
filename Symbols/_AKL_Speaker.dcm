@@ -8,4 +8,8 @@ $CMP CMS-151135-078S
 F https://www.digikey.es/product-detail/es/cui-devices/CMS-151135-078S/102-4616-ND/8581450
 $ENDCMP
 #
+$CMP HNB09A03
+F https://lcsc.com/product-detail/Buzzers_Jiangsu-Huaneng-Elec-HNB09A03_C96102.html
+$ENDCMP
+#
 #End Doc Library

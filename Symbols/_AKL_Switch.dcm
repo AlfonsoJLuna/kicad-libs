@@ -16,4 +16,8 @@ $CMP TL3301TF160QG
 F https://www.digikey.es/product-detail/es/e-switch/TL3301TF160QG/TL3301TF160QGCT-ND/4835081
 $ENDCMP
 #
+$CMP TS-1095-A13B3-D1
+F https://lcsc.com/product-detail/Tactile-Switches_Yuandi-TS-1095-A13B3-D1_C493018.html
+$ENDCMP
+#
 #End Doc Library
