@@ -1,11 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP FDN327N
-F https://www.digikey.es/product-detail/es/on-semiconductor/FDN327N/FDN327NCT-ND/1849910
+F https://lcsc.com/product-detail/MOSFET_ON-Semiconductor-FDN327N_C154560.html
 $ENDCMP
 #
 $CMP FDN340P
-F https://www.digikey.es/product-detail/es/on-semiconductor/FDN340P/FDN340PCT-ND/965604
+F https://lcsc.com/product-detail/MOSFET_ON-Semiconductor-FDN340P_C75469.html
 $ENDCMP
 #
 $CMP MTM231232LBF

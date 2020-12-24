@@ -28,4 +28,8 @@ $CMP TYPE-C-31-M-12
 F https://lcsc.com/product-detail/USB-Type-C_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html
 $ENDCMP
 #
+$CMP WJ124-3.81-2P
+F https://lcsc.com/product-detail/Pluggable-System-Terminal-Block_Ningbo-Kangnex-Elec-WJ124-3-81-2P_C69811.html
+$ENDCMP
+#
 #End Doc Library
