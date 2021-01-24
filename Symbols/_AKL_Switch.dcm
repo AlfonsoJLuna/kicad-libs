@@ -1,23 +1,47 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 1TS009A-1800-5000-CT
+F https://lcsc.com/product-detail/Tactile-Switches_HYP-Hongyuan-Precision-1TS009A-1800-5000-CT_C319409.html
+$ENDCMP
+#
 $CMP CUS-12TB
 F https://www.digikey.es/product-detail/es/nidec-copal-electronics/CUS-12TB/563-1102-1-ND/1124231
 $ENDCMP
 #
-$CMP EVQ-P7L01P
-F https://www.digikey.es/product-detail/es/panasonic-electronic-components/EVQ-P7L01P/P16769CT-ND/4429462
+$CMP DTSM-644K-S-V-T_R
+F https://lcsc.com/product-detail/Tactile-Switches_Diptronics-DTSM-644K-S-V-T-R_C699453.html
 $ENDCMP
 #
-$CMP EVQ-PUL02K
-F https://www.digikey.es/product-detail/es/panasonic-electronic-components/EVQ-PUL02K/P10853SCT-ND/286354
+$CMP DTSM-644N-V-T_R
+F https://lcsc.com/product-detail/Tactile-Switches_Diptronics-DTSM-644N-V-T-R_C191613.html
+$ENDCMP
+#
+$CMP EVQP7C01P
+F https://lcsc.com/product-detail/New-Arrivals_PANASONIC-EVQP7C01P_C388883.html
+$ENDCMP
+#
+$CMP EVQPUL02K
+F https://lcsc.com/product-detail/Tactile-Switches_PANASONIC-EVQPUL02K_C79175.html
+$ENDCMP
+#
+$CMP K3-1296S-E1
+F https://lcsc.com/product-detail/Toggle-Switches_Korean-Hroparts-Elec-K3-1296S-E1_C128955.html
 $ENDCMP
 #
 $CMP TL3301TF160QG
-F https://www.digikey.es/product-detail/es/e-switch/TL3301TF160QG/TL3301TF160QGCT-ND/4835081
+F https://lcsc.com/product-detail/Tactile-Switches_E-Switch-TL3301TF160QG-D310794_C273532.html
 $ENDCMP
 #
 $CMP TS-1095-A13B3-D1
 F https://lcsc.com/product-detail/Tactile-Switches_Yuandi-TS-1095-A13B3-D1_C493018.html
+$ENDCMP
+#
+$CMP TS-1095TS-B2C2-D1
+F https://lcsc.com/product-detail/Tactile-Switches_Yuandi-TS-1095TS-B2C2-D1_C493068.html
+$ENDCMP
+#
+$CMP TS-1199A-B-B
+F https://lcsc.com/product-detail/Tactile-Switches_XKB-Connectivity-TS-1199A-B-B_C692476.html
 $ENDCMP
 #
 #End Doc Library

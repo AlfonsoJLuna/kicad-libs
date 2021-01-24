@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Raspberry_Pi_Pico
+F https://www.raspberrypi.org/products/raspberry-pi-pico/
+$ENDCMP
+#
 $CMP Waveshare_17344
 F https://www.waveshare.com/2inch-lcd-module.htm
 $ENDCMP

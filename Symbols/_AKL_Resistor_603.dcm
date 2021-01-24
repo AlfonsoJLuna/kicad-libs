@@ -1,7 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 10
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_10R-10R-1_C109318.html
+$ENDCMP
+#
 $CMP 100
 F https://www.digikey.es/product-detail/es/yageo/RC0603FR-0710RL/311-10-0HRCT-ND/729826
+$ENDCMP
+#
+$CMP 100K
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603FR-07100KL_C14675.html
 $ENDCMP
 #
 $CMP 10K
@@ -25,7 +33,7 @@ F https://www.digikey.es/product-detail/es/yageo/RC0603FR-07160RL/311-160HRCT-ND
 $ENDCMP
 #
 $CMP 1K
-F https://www.digikey.es/product-detail/es/yageo/RC0603FR-071KL/311-1-00KHRCT-ND/729790
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603FR-071KL_C22548.html
 $ENDCMP
 #
 $CMP 1K2
@@ -54,6 +62,10 @@ $ENDCMP
 #
 $CMP 2K4
 F https://www.digikey.es/product-detail/es/yageo/RC0603FR-072K4L/311-2-40KHRCT-ND/729970
+$ENDCMP
+#
+$CMP 47
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603FR-0747RL_C114623.html
 $ENDCMP
 #
 $CMP 470

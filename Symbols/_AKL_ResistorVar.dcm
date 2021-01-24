@@ -4,4 +4,8 @@ $CMP FJ08K-N
 F http://www.polyshine.cn/ProductDetail-220.html
 $ENDCMP
 #
+$CMP Switch-Joystick
+F Switch-Joystick
+$ENDCMP
+#
 #End Doc Library
