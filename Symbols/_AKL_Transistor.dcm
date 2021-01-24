@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BSS138P
+F https://lcsc.com/product-detail/MOSFET_Nexperia-BSS138P-215_C75547.html
+$ENDCMP
+#
 $CMP FDN327N
 F https://lcsc.com/product-detail/MOSFET_ON-Semiconductor-FDN327N_C154560.html
 $ENDCMP

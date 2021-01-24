@@ -12,4 +12,8 @@ $CMP HNB09A03
 F https://lcsc.com/product-detail/Buzzers_Jiangsu-Huaneng-Elec-HNB09A03_C96102.html
 $ENDCMP
 #
+$CMP MLT-7525
+F https://lcsc.com/product-detail/Buzzers_Jiangsu-Huaneng-Elec-MLT-7525_C95299.html
+$ENDCMP
+#
 #End Doc Library

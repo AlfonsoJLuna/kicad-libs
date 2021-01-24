@@ -16,6 +16,22 @@ $CMP 150060VS75000
 F https://www.digikey.es/product-detail/es/w%C3%BCrth-elektronik/150060VS75000/732-4980-1-ND/4489904
 $ENDCMP
 #
+$CMP NCD0603B1
+F https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0603B1_C84266.htmlectronics-NCD0603R1_C84263.html
+$ENDCMP
+#
+$CMP NCD0603G1
+F https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0603G1_C84267.html
+$ENDCMP
+#
+$CMP NCD0603O1
+F https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orange-SMDLED-100-180mcd_C84269.html
+$ENDCMP
+#
+$CMP NCD0603R1
+F https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0603R1_C84263.html
+$ENDCMP
+#
 $CMP VEMD10940F
 F https://www.digikey.es/product-detail/es/vishay-semiconductor-opto-division/VEMD10940F/VEMD10940FCT-ND/3915201
 $ENDCMP

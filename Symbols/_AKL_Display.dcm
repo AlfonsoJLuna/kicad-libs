@@ -4,4 +4,8 @@ $CMP ST7789_1.54_240x240
 F https://www.buydisplay.com/1-54-inch-tft-lcd-display-ips-panel-screen-240x240-for-smart-watch
 $ENDCMP
 #
+$CMP ST7789_2.00_240x320
+F ST7789_2.00_240x320
+$ENDCMP
+#
 #End Doc Library

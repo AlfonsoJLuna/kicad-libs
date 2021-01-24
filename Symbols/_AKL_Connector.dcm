@@ -4,6 +4,14 @@ $CMP 1040310811
 F https://www.digikey.es/product-detail/es/molex/1040310811/WM6357CT-ND/2804769
 $ENDCMP
 #
+$CMP AFC01-S05FCA-00
+F https://lcsc.com/product-detail/FFC-FPC-Connectors_JUSHUO-AFC01-S05FCA-00_C262654.html
+$ENDCMP
+#
+$CMP AFC20-S02ACC-00
+F https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_JUSHUO-AFC20-S02ACC-00_C395358.html
+$ENDCMP
+#
 $CMP FH2.54x3.55-2x12T
 F FH2.54x3.55-2x12T
 $ENDCMP
