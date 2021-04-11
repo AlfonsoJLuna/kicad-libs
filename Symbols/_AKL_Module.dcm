@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP IRM-02-5
+F https://www.digikey.es/product-detail/es/mean-well-usa-inc/IRM-02-5/1866-3009-ND/7704628
+$ENDCMP
+#
 $CMP Raspberry_Pi_Pico
 F https://www.raspberrypi.org/products/raspberry-pi-pico/
 $ENDCMP
