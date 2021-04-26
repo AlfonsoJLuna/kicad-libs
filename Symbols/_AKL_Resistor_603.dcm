@@ -5,7 +5,7 @@ F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_10R-10R-1_C109318.
 $ENDCMP
 #
 $CMP 100
-F https://www.digikey.es/product-detail/es/yageo/RC0603FR-0710RL/311-10-0HRCT-ND/729826
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_10R-10R-1_C109318.html
 $ENDCMP
 #
 $CMP 100K
@@ -81,7 +81,7 @@ F https://www.digikey.es/product-detail/es/yageo/RC0603FR-07560RL/311-560HRCT-ND
 $ENDCMP
 #
 $CMP 5K1
-F https://www.digikey.es/product-detail/es/yageo/RC0603FR-075K1L/311-5-10KHRCT-ND/730215
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603FR-075K1L_C105580.html
 $ENDCMP
 #
 $CMP 75K
