@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AP7333-33SAG-7
+F https://lcsc.com/product-detail/Dropout-Regulators-LDO_Diodes-Incorporated-AP7333-33SAG-7_C150746.html
+$ENDCMP
+#
 $CMP AP9211S-AN-HAC-7
 F https://www.mouser.es/ProductDetail/Diodes-Incorporated/AP9211S-AN-HAC-7?qs=%2Fha2pyFaduhU8ORG8s%252BdQ8wjonur7%2FvJn%252BxxLU0AZ5qESSeNUE%2F1LA%3D%3D
 $ENDCMP
@@ -10,6 +14,10 @@ $ENDCMP
 #
 $CMP BD49K33G-TL
 F https://www.digikey.es/product-detail/es/rohm-semiconductor/BD49K33G-TL/BD49K33G-TLCT-ND/7895582
+$ENDCMP
+#
+$CMP CH340E
+F https://lcsc.com/product-detail/USB-ICs_WCH-Jiangsu-Qin-Heng-CH340E_C99652.html
 $ENDCMP
 #
 $CMP CP2102N-A02-GQFN24
@@ -38,6 +46,10 @@ $ENDCMP
 #
 $CMP PAM8301AAF
 F https://www.digikey.es/product-detail/es/diodes-incorporated/PAM8301AAF/PAM8301AAFDICT-ND/8283873
+$ENDCMP
+#
+$CMP STM32G030K6T6
+F https://lcsc.com/product-detail/ST-Microelectronics_STMicroelectronics-STM32G030K6T6_C529331.html
 $ENDCMP
 #
 $CMP STM32L431CCU6
