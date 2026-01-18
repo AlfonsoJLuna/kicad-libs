@@ -1,0 +1,243 @@
+(footprint "Joystick-Switch-Bottom"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.85 -10.55 0)
+		(layer "B.SilkS")
+		(uuid "a51cea86-9752-4064-bfa3-21ede0c2f172")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Joystick-Switch-Bottom"
+		(at -0.85 -12 0)
+		(layer "F.Fab")
+		(uuid "6a59d860-c713-43cf-8e8d-5b4c6e0d6611")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0d111545-b9e4-4b0c-8888-0a85015a58ad")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4f64ab90-22f2-474b-8ffd-0b516a0b4541")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_line
+		(start -9.35 -9.45)
+		(end 7.65 -9.45)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "cd62e5ef-05d9-4dfd-9f3c-702cde9e02af")
+	)
+	(fp_line
+		(start -9.35 9.55)
+		(end -9.35 -9.45)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "329674d7-4a7a-485d-be0d-bb7d45cf6f2a")
+	)
+	(fp_line
+		(start -9.05 11)
+		(end -9.05 9.55)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "b5e230c7-932e-4ee8-b1f1-8ea0f2aa34eb")
+	)
+	(fp_line
+		(start -5.15 11)
+		(end -5.15 9.55)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "ff872c4a-b140-476d-8c36-545436585688")
+	)
+	(fp_line
+		(start 7.65 -9.45)
+		(end 7.65 9.55)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "b828848c-deb5-4233-8f11-244016fabc55")
+	)
+	(fp_line
+		(start 7.65 9.55)
+		(end -9.35 9.55)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "cee3f55e-d1d6-4b0c-9673-afa3fe4ba2f2")
+	)
+	(fp_line
+		(start 9.1 -9.25)
+		(end 7.65 -9.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "d080a535-ffc8-4b97-9387-69a1fef595d0")
+	)
+	(fp_line
+		(start 9.1 -5.35)
+		(end 7.65 -5.35)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "65a0a68b-2a29-4085-b1b8-520f0db984e8")
+	)
+	(fp_arc
+		(start -5.15 11)
+		(mid -7.1 12.95)
+		(end -9.05 11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "a8adc0fd-73eb-4164-b6ec-36d0578aa9dd")
+	)
+	(fp_arc
+		(start 9.1 -9.25)
+		(mid 11.05 -7.3)
+		(end 9.1 -5.35)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "5a8e6e32-0141-4e54-88a4-3f4201de8363")
+	)
+	(fp_circle
+		(center -7.1 11)
+		(end -6.35 11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "B.SilkS")
+		(uuid "d75c9ba5-b1be-44b6-ad6d-43fcff1577e9")
+	)
+	(fp_circle
+		(center -7.1 11)
+		(end -5.65 11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "B.SilkS")
+		(uuid "5e8002dd-fae2-4ffa-be8a-a3939c50ead7")
+	)
+	(fp_circle
+		(center 9.1 -7.3)
+		(end 9.85 -7.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "B.SilkS")
+		(uuid "fb4fb026-3cff-4bb5-a59d-f8329a8bff87")
+	)
+	(fp_circle
+		(center 9.1 -7.3)
+		(end 10.55 -7.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "B.SilkS")
+		(uuid "4daebba4-6d27-42fe-b968-81a1d3eeaea1")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 9.6 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "09c036d1-d5a9-4b16-9e4a-ad26f2274b15")
+	)
+	(pad "" np_thru_hole circle
+		(at -7.1 11)
+		(size 1.6 1.6)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(uuid "71ee35cf-0a4b-4ee4-8b30-eec46c9441e3")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 15.5 15.5)
+		(drill 15.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "9c6abe21-0560-4723-9dfe-0bb13dc6d5be")
+	)
+	(pad "" np_thru_hole circle
+		(at 9.1 -7.3)
+		(size 1.6 1.6)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(uuid "77547892-7f0e-4023-bbe7-7846f3769f52")
+	)
+	(embedded_fonts no)
+	(model ":ThirdParty:Switch-Joystick.STEP"
+		(offset
+			(xyz -8.5 4.5 8.9)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
