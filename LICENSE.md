@@ -8,7 +8,7 @@ _To the extent that the creation of electronic designs that use 'Licensed Materi
 
 ---------
 
-You can read more about KiCad library licensing [here](http://kicad-pcb.org/libraries/license).
+You can read more about KiCad library licensing [here](http://kicad.org/libraries/license).
 
 **What does this mean?**
 
