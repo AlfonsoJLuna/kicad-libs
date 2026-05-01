@@ -1,14 +1,14 @@
 (footprint "Resistor_0402"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 	(tags "resistor")
 	(property "Reference" "REF**"
 		(at 0 -1.17 0)
 		(layer "F.SilkS")
-		(uuid "06f2b118-41d1-4098-952b-fa52a08e86d3")
+		(uuid "f371f1d7-bc85-4bdc-8abf-4fd121da5592")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 	(property "Value" "Resistor_0402"
 		(at 0 1.17 0)
 		(layer "F.Fab")
-		(uuid "31f4be89-38c9-4459-a64a-ae9c68c64aae")
+		(uuid "b1b9d267-865f-4b49-a817-1901bc1b8e3b")
 		(effects
 			(font
 				(size 1 1)
@@ -31,7 +31,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "8f1f7d30-9a47-4012-a4e7-73535d5e5c14")
+		(uuid "99b7e4e5-378a-4368-b6b6-203bf218aac1")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "3370fdf0-80be-47ef-b2e0-2167cc54253a")
+		(uuid "ff70fced-bd6a-44f5-804d-76941d41c336")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -51,7 +51,32 @@
 			)
 		)
 	)
+	(property "IsChecked" "Yes"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "9a72c371-13fa-4b73-9cd9-16c2e49a76ae")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "IsTested" "No"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "254d2f9c-cfb4-4485-af31-70bf7dc07e68")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -0.93 -0.47)
 		(end 0.93 -0.47)
@@ -60,7 +85,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "bd17ce7d-339e-4b9a-8b6a-b433ee6b5960")
+		(uuid "ded2bc6f-a0a6-4bcb-9fd6-5ec03fb02d82")
 	)
 	(fp_line
 		(start -0.93 0.47)
@@ -70,7 +95,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "a348e46d-34e0-40a0-8fe4-db4156bd9dc3")
+		(uuid "c1c112a4-37e0-4e95-82c2-e53f6c6db29f")
 	)
 	(fp_line
 		(start 0.93 -0.47)
@@ -80,7 +105,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "e8da627b-4b00-40cf-a0e4-6b3fe83038ff")
+		(uuid "77e4834a-8c3f-4e91-ad12-91264bca7c80")
 	)
 	(fp_line
 		(start 0.93 0.47)
@@ -90,7 +115,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "def7a294-7499-449f-94cb-5441d5044abf")
+		(uuid "0427aaa8-94dc-4484-9067-b78c2f4dc3d0")
 	)
 	(fp_line
 		(start -0.525 -0.27)
@@ -100,7 +125,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "ea895e03-1192-464b-92c4-82e73f059f41")
+		(uuid "0746eeac-c031-4f24-bec4-1dfd48419976")
 	)
 	(fp_line
 		(start -0.525 0.27)
@@ -110,7 +135,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "175118a9-a819-4a02-830d-d2f1c7824198")
+		(uuid "3d01bd95-a38e-468b-8064-47184a50eab2")
 	)
 	(fp_line
 		(start 0.525 -0.27)
@@ -120,7 +145,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "18853332-68d4-4ba1-9b80-4fcf317fe71b")
+		(uuid "b15ce2aa-fa5d-4ac4-97ea-9aaee5a44a4f")
 	)
 	(fp_line
 		(start 0.525 0.27)
@@ -130,12 +155,12 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "7a46970c-3fb1-4552-a873-7dae5e307905")
+		(uuid "9cabffd9-716f-423f-b8a7-6c2eaabe38f9")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "07e925d3-4a15-4f52-b99c-0b79a9b7641b")
+		(uuid "77f815a1-07a4-4537-b03c-bee2d47b6dd2")
 		(effects
 			(font
 				(size 0.26 0.26)
@@ -148,14 +173,14 @@
 		(size 0.54 0.64)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "e0817d1f-d509-4056-a5ff-0f5037ab1931")
+		(uuid "6423dbdd-cce0-4741-b2f5-5ac348674776")
 	)
 	(pad "2" smd roundrect
 		(at 0.51 0)
 		(size 0.54 0.64)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "dcd74888-c211-469f-be63-c73b01646f34")
+		(uuid "3931286f-2a98-4a71-b20f-c72ead72c55a")
 	)
 	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"

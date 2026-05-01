@@ -2,40 +2,42 @@
 	(version 20251024)
 	(generator "kicad_symbol_editor")
 	(generator_version "10.0")
-	(symbol "RC0402FR-13100RL"
+	(symbol "CL05C120JB5NNNC"
 		(pin_numbers
 			(hide yes)
 		)
 		(pin_names
-			(offset 0)
+			(offset 0.254)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "R"
-			(at 2.032 0 90)
+		(property "Reference" "C"
+			(at 0.635 2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "100R"
-			(at 0 0 90)
+		(property "Value" "12p"
+			(at 0.635 -2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "AKL_Passive:Resistor_0402"
-			(at -1.778 0 90)
+		(property "Footprint" "AKL_Passive:Capacitor_0402"
+			(at 0.9652 -3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -45,7 +47,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2615/CL05C120JB5NNNC_Spec.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56,7 +58,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 100 OHM 1% 1/16W 0402"
+		(property "Description" "CAP CER 12PF 50V C0G/NP0 0402"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -67,7 +69,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Yageo"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -78,7 +80,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-13100RL"
+		(property "MPN" "CL05C120JB5NNNC"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -100,7 +102,7 @@
 				)
 			)
 		)
-		(property "Tjmax" "155"
+		(property "Tjmax" "125"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -144,7 +146,7 @@
 				)
 			)
 		)
-		(property "ki_keywords" "R res resistor"
+		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -155,7 +157,7 @@
 				)
 			)
 		)
-		(property "ki_fp_filters" "R_*"
+		(property "ki_fp_filters" "C_*"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -166,12 +168,25 @@
 				)
 			)
 		)
-		(symbol "RC0402FR-13100RL_0_1"
-			(rectangle
-				(start -1.016 2.54)
-				(end 1.016 -2.54)
+		(symbol "CL05C120JB5NNNC_0_1"
+			(polyline
+				(pts
+					(xy -2.032 0.762) (xy 2.032 0.762)
+				)
 				(stroke
-					(width 0.254)
+					(width 0.508)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.032 -0.762) (xy 2.032 -0.762)
+				)
+				(stroke
+					(width 0.508)
 					(type default)
 				)
 				(fill
@@ -179,10 +194,10 @@
 				)
 			)
 		)
-		(symbol "RC0402FR-13100RL_1_1"
+		(symbol "CL05C120JB5NNNC_1_1"
 			(pin passive line
 				(at 0 5.08 270)
-				(length 2.54)
+				(length 4.064)
 				(name ""
 					(effects
 						(font
@@ -200,7 +215,7 @@
 			)
 			(pin passive line
 				(at 0 -5.08 90)
-				(length 2.54)
+				(length 4.064)
 				(name ""
 					(effects
 						(font

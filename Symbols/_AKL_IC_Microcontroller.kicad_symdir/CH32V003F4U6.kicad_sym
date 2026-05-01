@@ -52,7 +52,7 @@
 				)
 			)
 		)
-		(property "Description" "Microcontroller RISC-V 48MHz 18 QFN-20(3X3)"
+		(property "Description" "Microcontroller RISC-V 48MHz, 2KB RAM, 16KB Flash, QFN20"
 			(at 8.382 -7.874 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -109,6 +109,28 @@
 		)
 		(property "RoHS" "Yes"
 			(at 7.62 -8.636 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "IsChecked" "No"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "IsTested" "No"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)

@@ -9,7 +9,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
-			(at 0 43.815 0)
+			(at 0 43.942 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -20,7 +20,7 @@
 			)
 		)
 		(property "Value" "STM32C071G8U6"
-			(at 0 -0.635 0)
+			(at 0 -0.762 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -52,7 +52,7 @@
 				)
 			)
 		)
-		(property "Description" "Microcontroller ARM Cortex-M0+ 48MHz, 24KB RAM, 64KB Flash, USB, QFN-28(4x4)"
+		(property "Description" "Microcontroller ARM Cortex-M0+ 48MHz, 24KB RAM, 64KB Flash, USB, UFQFPN28"
 			(at 8.382 -7.874 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -96,7 +96,7 @@
 				)
 			)
 		)
-		(property "Tjmax" "105"
+		(property "Tjmax" "85"
 			(at 7.874 -7.112 0)
 			(show_name no)
 			(do_not_autoplace no)
