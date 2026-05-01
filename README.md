@@ -1,6 +1,6 @@
 # kicad-libs
 
-My collection of KiCad libraries.
+My collection of libraries for KiCad.
 
 Some of them are derived from the official libraries:
 * https://gitlab.com/kicad/libraries/kicad-symbols
