@@ -2,8 +2,12 @@
 	(version 20251024)
 	(generator "kicad_symbol_editor")
 	(generator_version "10.0")
-	(symbol "BM04B-SRSS-TBT(LF)(SN)"
+	(symbol "TS-1145A-B-A"
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
+			(offset 1.016)
 			(hide yes)
 		)
 		(exclude_from_sim no)
@@ -11,29 +15,50 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "J"
-			(at 0 13.335 0)
+		(property "Reference" "SW"
+			(at 1.27 2.54 0)
 			(show_name no)
-			(do_not_autoplace yes)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left)
 			)
 		)
-		(property "Value" "BM04B-SRSS-TBT(LF)(SN)"
-			(at 0 -0.635 0)
+		(property "Value" "TS-1145A-B-A"
+			(at 0 -1.524 0)
 			(show_name no)
-			(do_not_autoplace yes)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 			)
 		)
-		(property "Footprint" "AKL_Connector:JST_SH_4Pin_Vertical"
+		(property "Footprint" "AKL_Switch:SMD_Buton_4Pin_4.2x3.2mm"
+			(at 0 5.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C318904.pdf"
+			(at 0 5.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "SWITCH TACTILE SPST 160gf SMD"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44,8 +69,8 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-			(at 8.382 -7.874 0)
+		(property "MPN" "TS-1145A-B-A"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -55,8 +80,8 @@
 				)
 			)
 		)
-		(property "Description" "Connector header SMD, top entry, 1 row, 4 position, 1mm pitch, 1A"
-			(at 8.382 -7.874 0)
+		(property "Manufacturer" "XKB Connection"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -66,30 +91,8 @@
 				)
 			)
 		)
-		(property "Manufacturer" "JST"
-			(at 7.62 -7.112 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
-			(at 8.128 -6.35 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Tjmin" "-25"
-			(at 7.62 -7.366 0)
+		(property "Tjmin" "-30"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -100,7 +103,7 @@
 			)
 		)
 		(property "Tjmax" "85"
-			(at 7.874 -7.112 0)
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -111,7 +114,7 @@
 			)
 		)
 		(property "RoHS" "Yes"
-			(at 7.62 -8.636 0)
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -143,76 +146,56 @@
 				)
 			)
 		)
-		(property "ki_keywords" "connector jst sh 4pin"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(symbol "BM04B-SRSS-TBT(LF)(SN)_1_1"
-			(rectangle
-				(start 0 12.7)
-				(end 5.08 0)
+		(symbol "TS-1145A-B-A_0_1"
+			(circle
+				(center -2.032 0)
+				(radius 0.508)
 				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-			(rectangle
-				(start 0 10.16)
-				(end 1.27 9.906)
-				(stroke
-					(width 0.1524)
-					(type default)
+					(width 0)
+					(type solid)
 				)
 				(fill
 					(type none)
 				)
 			)
-			(rectangle
-				(start 0 7.62)
-				(end 1.27 7.366)
+			(polyline
+				(pts
+					(xy 0 1.27) (xy 0 3.048)
+				)
 				(stroke
-					(width 0.1524)
-					(type default)
+					(width 0)
+					(type solid)
 				)
 				(fill
 					(type none)
 				)
 			)
-			(rectangle
-				(start 0 5.08)
-				(end 1.27 4.826)
+			(circle
+				(center 2.032 0)
+				(radius 0.508)
 				(stroke
-					(width 0.1524)
-					(type default)
+					(width 0)
+					(type solid)
 				)
 				(fill
 					(type none)
 				)
 			)
-			(rectangle
-				(start 0 2.54)
-				(end 1.27 2.286)
+			(polyline
+				(pts
+					(xy 2.54 1.27) (xy -2.54 1.27)
+				)
 				(stroke
-					(width 0.1524)
-					(type default)
+					(width 0)
+					(type solid)
 				)
 				(fill
 					(type none)
 				)
 			)
 			(pin passive line
-				(at -5.08 10.16 0)
-				(length 5.08)
+				(at -5.08 0 0)
+				(length 2.54)
 				(name "1"
 					(effects
 						(font
@@ -229,8 +212,8 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 7.62 0)
-				(length 5.08)
+				(at 5.08 0 180)
+				(length 2.54)
 				(name "2"
 					(effects
 						(font
@@ -239,42 +222,6 @@
 					)
 				)
 				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at -5.08 5.08 0)
-				(length 5.08)
-				(name "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at -5.08 2.54 0)
-				(length 5.08)
-				(name "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
 					(effects
 						(font
 							(size 1.27 1.27)

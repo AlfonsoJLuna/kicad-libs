@@ -33,7 +33,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AKL_Connector:JST_SH_2Pin_Horizontal"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -112,6 +112,28 @@
 		)
 		(property "RoHS" "Yes"
 			(at 7.62 -8.636 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "IsChecked" "Yes"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "IsTested" "No"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
