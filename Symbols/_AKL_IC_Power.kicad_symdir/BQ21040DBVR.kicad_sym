@@ -2,14 +2,14 @@
 	(version 20251024)
 	(generator "kicad_symbol_editor")
 	(generator_version "10.0")
-	(symbol "CH213K"
+	(symbol "BQ21040DBVR"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
-			(at 0 10.668 0)
+			(at 0 20.955 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -19,8 +19,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CH213K"
-			(at 0 -0.508 0)
+		(property "Value" "BQ21040DBVR"
+			(at 0 -0.635 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -30,8 +30,8 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "AKL_IC:WCH_SOT23-3"
-			(at 5.842 -9.398 0)
+		(property "Footprint" "AKL_IC:Texas_SOT-23-6_DBV0006A"
+			(at 8.636 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -41,8 +41,8 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5456874.pdf"
-			(at 4.826 -9.144 0)
+		(property "Datasheet" "https://www.ti.com/product/BQ21040"
+			(at 6.096 -7.366 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -52,8 +52,8 @@
 				)
 			)
 		)
-		(property "Description" "5V 0.5A low-dropout diode chip"
-			(at 16.51 -9.398 0)
+		(property "Description" "Charger IC Lithium Ion/Polymer SOT-23-6"
+			(at 6.096 -7.366 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -63,8 +63,8 @@
 				)
 			)
 		)
-		(property "Manufacturer" "WCH"
-			(at 4.572 -10.414 0)
+		(property "Manufacturer" "Texas Instruments"
+			(at 7.112 -6.858 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -74,8 +74,8 @@
 				)
 			)
 		)
-		(property "MPN" "CH213K"
-			(at 6.35 -9.906 0)
+		(property "MPN" "BQ21040DBVR"
+			(at 7.112 -7.112 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -86,7 +86,7 @@
 			)
 		)
 		(property "Tjmin" "-40"
-			(at 6.35 -9.906 0)
+			(at 7.62 -8.128 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -96,8 +96,8 @@
 				)
 			)
 		)
-		(property "Tjmax" "85"
-			(at 5.588 -10.668 0)
+		(property "Tjmax" "150"
+			(at 6.858 -7.874 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -108,7 +108,7 @@
 			)
 		)
 		(property "RoHS" "Yes"
-			(at 5.334 -10.16 0)
+			(at 6.858 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -118,7 +118,7 @@
 				)
 			)
 		)
-		(property "ki_keywords" "ideal diode"
+		(property "IsChecked" "Yes"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -129,60 +129,21 @@
 				)
 			)
 		)
-		(symbol "CH213K_0_1"
-			(polyline
-				(pts
-					(xy 0 7.62) (xy 0 7.62) (xy 0 7.62) (xy 2.54 7.62) (xy 2.54 7.62) (xy 2.54 7.62)
-				)
-				(stroke
-					(width 0.2032)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 8.89) (xy 2.54 6.35) (xy 5.08 7.62) (xy 2.54 8.89)
-				)
-				(stroke
-					(width 0.2032)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 5.08 8.89) (xy 5.08 8.89) (xy 5.08 8.89) (xy 5.08 6.35) (xy 5.08 6.35) (xy 5.08 6.35)
-				)
-				(stroke
-					(width 0.2032)
-					(type solid)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 5.08 7.62) (xy 5.08 7.62) (xy 5.08 7.62) (xy 7.62 7.62) (xy 7.62 7.62) (xy 7.62 7.62)
-				)
-				(stroke
-					(width 0.2032)
-					(type solid)
-				)
-				(fill
-					(type none)
+		(property "IsTested" "No"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
-		(symbol "CH213K_1_1"
+		(symbol "BQ21040DBVR_1_1"
 			(rectangle
-				(start 0 10.16)
-				(end 7.62 0)
+				(start 0 20.32)
+				(end 15.24 0)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -192,9 +153,9 @@
 				)
 			)
 			(pin passive line
-				(at 10.16 2.54 180)
+				(at 17.78 2.54 180)
 				(length 2.54)
-				(name "GND"
+				(name "TS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -210,9 +171,9 @@
 				)
 			)
 			(pin passive line
-				(at 10.16 7.62 180)
+				(at 17.78 17.78 180)
 				(length 2.54)
-				(name ""
+				(name "OUT"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -228,9 +189,9 @@
 				)
 			)
 			(pin passive line
-				(at -2.54 7.62 0)
+				(at 17.78 10.16 180)
 				(length 2.54)
-				(name ""
+				(name "nCHG"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -238,6 +199,60 @@
 					)
 				)
 				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -2.54 10.16 0)
+				(length 2.54)
+				(name "ISET"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -2.54 2.54 0)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -2.54 17.78 0)
+				(length 2.54)
+				(name "VIN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
 					(effects
 						(font
 							(size 1.27 1.27)
